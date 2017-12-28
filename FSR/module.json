@@ -1,0 +1,15 @@
+{
+    "bin":"./source",
+    "license":"Apache-2.0",
+    "name":"FSR",
+    "repository":{
+        "url":"git://<repository_url>",
+        "type":"git"
+    },
+    "version":"0.1.0",
+    "dependencies":{
+        "kubos-rt":"kubostech/kubos-rt#~0.1.0"
+    },
+    "homepage":"https://<homepage>",
+    "description":"Example app running on kubos-rt."
+}
