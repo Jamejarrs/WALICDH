@@ -8,8 +8,8 @@
     },
     "version":"0.1.0",
     "dependencies":{
-        "kubos-rt":"kubostech/kubos-rt#~0.1.0"
+        "csp":"kubostech/libcsp#~1.5.0"
     },
     "homepage":"https://<homepage>",
-    "description":"Example app running on kubos-rt."
+    "description":"Example app running on KubOS Linux."
 }
